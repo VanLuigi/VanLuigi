@@ -1,4 +1,3 @@
-# VanLuig
 # <a href="https://www.linkedin.com/in/luiscalzadag/">Luis Calzada</a>'s IT and Cybersecurity Project Portfolio 🔐
 
 I’m a cybersecurity professional passionate about solving complex security challenges through hands-on projects. My current work focuses on threat hunting with Microsoft Sentinel, with an emphasis on cloud security, detection engineering, incident response, and security operations. This GitHub is a growing collection of practical projects that reflect my continuous learning and commitment to improving cybersecurity processes. Feel free to explore my work and follow along as I expand the collection.
