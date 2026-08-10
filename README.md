@@ -7,6 +7,7 @@ I’m a cybersecurity professional passionate about solving complex security cha
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (Brute Force Persistence)](https://github.com/VanLuigi/Threat-Hunting-brute-force-persistence)**
+- **[Threat Hunting Scenario (Live MySQL Ransomware Bot in a Homelab)](https://github.com/VanLuigi/Threat-Hunting-Live-MySQL-Ransomware-Bot)**
 
 <hr/>
 
