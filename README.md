@@ -8,6 +8,7 @@ I’m a cybersecurity professional passionate about solving complex security cha
 
 - **[Threat Hunting Scenario (Brute Force Persistence)](https://github.com/VanLuigi/Threat-Hunting-brute-force-persistence)**
 - **[Threat Hunting Scenario (Live MySQL Ransomware Bot in a Homelab)](https://github.com/VanLuigi/Threat-Hunting-Live-MySQL-Ransomware-Bot)**
+- **[Identity and Access Management (IAM) (Hands-on lab demonstrating enterprise SSO with Microsoft Entra ID)](https://github.com/VanLuigi/Microsoft-Entra-SAML-SSO-Lab)**
 
 <hr/>
 
